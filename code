@@ -1,0 +1,10 @@
+git log
+git log --oneline
+git status
+git add
+git remote
+git remote add 
+git push
+git pull
+git clone
+clear
