@@ -8,5 +8,8 @@ git remote add
 git push
 git pull
 git clone
+<<<<<<< HEAD
 git checkout 
 git branch
+=======
+>>>>>>> 695b495 (Eliminando codigo)
