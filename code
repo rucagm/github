@@ -7,7 +7,15 @@ git remote
 git push
 git pull
 git clone
+<<<<<<< HEAD
+<<<<<<< HEAD
 git checkout 
 git branch
-git stash
+=======
+>>>>>>> 695b495 (Eliminando codigo)
+=======
+git checkout
+git branch
+git push/pull
 
+>>>>>>> lista
