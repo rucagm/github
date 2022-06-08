@@ -7,4 +7,5 @@ git remote add
 git push
 git pull
 git clone
-clear
+git checkout
+git branch
